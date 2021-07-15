@@ -32,7 +32,7 @@ This project require NodeJS v16.
 Clone this project
 
 ```bash
-> git clone https://github.com/pakforlay/yahoo-creator.git
+> git clone hhttps://github.com/lulukcan/yahoo.git
 > cd yahoo-creator
 > npm install
 > node yahoo.js atau node yahoo_auto.js
